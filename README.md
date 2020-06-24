@@ -1,4 +1,4 @@
-# customflutterdatetimepicker
+# Custom flutter datetime picker
 
 custom datepicke from package flutter_datetime_picker https://pub.dev/packages/flutter_datetime_picker
 
